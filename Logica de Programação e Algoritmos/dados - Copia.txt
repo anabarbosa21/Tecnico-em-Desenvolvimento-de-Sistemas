@@ -1,0 +1,2 @@
+Nome	Idade	Cidade
+ana	16	tambau
